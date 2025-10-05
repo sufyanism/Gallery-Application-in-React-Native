@@ -29,5 +29,47 @@ Make sure you have the following installed:
 - [Expo CLI](https://expo.dev/) (install globally)
   
 To install Expo CLI globally, run:
-
 `npm install -g expo-cli`
+
+
+Setup Instructions
+
+1. Create a New Project
+Open your terminal and run:
+`expo init GalleryApp`
+When prompted, select the blank template.
+
+2. Navigate into the Project Folder
+`cd GalleryApp`
+
+3. Start the Development Server
+`expo start`
+
+This command will launch the Expo Developer Tools in browser.
+
+</br>
+
+## Project Structure
+After creation, your project folder (GalleryApp/) will have the following structure:
+```
+GalleryApp/
+├── App.js               # Main entry point of the app
+├── package.json         # Dependencies and scripts
+├── assets/              # Images, fonts, icons
+└── node_modules/        # Installed dependencies
+```
+
+</br>
+
+## Running the App
+
+On a Physical Device: 📱
+- Install the Expo Go app from the App Store or Google Play.
+- Make sure your device and development machine are on the same Wi-Fi network.
+- Run expo start in your project directory.
+- Scan the QR code with Expo Go to view the app.
+
+On an Emulator: 💻
+- For Android, start an emulator via Android Studio.
+- For iOS, open the project in Xcode (macOS only).
+- Run expo start and select the emulator to launch.
