@@ -30,6 +30,7 @@ Make sure you have the following installed:
 To install Expo CLI globally, run:
 `npm install -g expo-cli`
 
+</br>
 
 ## Setup Instructions
 
