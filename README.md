@@ -31,7 +31,7 @@ To install Expo CLI globally, run:
 `npm install -g expo-cli`
 
 
-Setup Instructions
+## Setup Instructions
 
 1. Create a New Project
 Open your terminal and run:
