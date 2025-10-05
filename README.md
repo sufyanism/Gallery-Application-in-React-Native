@@ -63,18 +63,16 @@ GalleryApp/
 
 ## Running the App
 
-On a Physical Device: 📱
+**On a Physical Device:** 📱
 - Install the Expo Go app from the App Store or Google Play.
 - Make sure your device and development machine are on the same Wi-Fi network.
 - Run expo start in your project directory.
 - Scan the QR code with Expo Go to view the app.
 
-On an Emulator: 💻
+***On an Emulator:** 💻
 - For Android, start an emulator via Android Studio.
 - For iOS, open the project in Xcode (macOS only).
 - Run expo start and select the emulator to launch.
-
-
 
 </br>
 
