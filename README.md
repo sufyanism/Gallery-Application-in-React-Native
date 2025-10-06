@@ -1,46 +1,116 @@
-React Native Gallery App by Zeba Academy ========================
-=
-Welcome to the React Native Gallery App tutorial project by Zeba Academy! This app is a
-step-by-step implementation from our video series, teaching you how to build a fully interactive
-image gallery in React Native.
----
-## Features
-1. **Gallery Grid & Image Preview Modal** - Displays images in a 2-column grid. - Tap an image to
-view it fullscreen.
-2. **Search Bar & Filters** - Search images by title. - Filter images by categories: All, Nature,
-Urban, Other, and Favorites.
-3. **Favorites Feature** - Tap the heart icon to favorite/unfavorite an image. - Filter by Favorites
-category to see liked images.
----
-## Installation
-Clone the repo: ``` git clone https://github.com/sufyanism/allery-Application-in-React-Native
-.git cd
+# React Native Gallery App 📸
 
-react-native-gallery-app ```
-
-Install dependencies: ``` npm install # or yarn install ```
-
-Run the app: ``` npm run ios # or npx react-native run-android ```
+A React Native mobile application built with [`@react-native-community/cli`](https://github.com/react-native-community/cli).  
+This app is a complete tutorial project by **Zeba Academy**, teaching how to build a beautiful and interactive **image gallery** using React Native.  
 
 ---
-## Usage
-- Use the search bar at the top to filter images by title. - Tap on category buttons to filter images by
-category or view favorites. - Tap an image to open it fullscreen. - Tap the heart icon on any image to
-toggle favorites. - Close fullscreen preview with the X button.
----
-## Code Overview
-- **App.jsx** handles all core features: gallery grid, search, filtering, favorites, and modal. - React
-Native components like FlatList, Modal, TextInput, TouchableOpacity are used. - React hooks
-manage state (useState, useRef). - Animated API powers the heart toggle effect.
----
-## Technologies Used
-- React Native - JavaScript / JSX - React Hooks - React Native Animated API
----
-## About Zeba Academy
 
-This project is part of Zeba Academy’s hands-on React Native tutorials. We focus on clear, practical
-lessons for beginners and intermediate developers. Explore more tutorials and join our community
-at [https://zebacademy.com](https://zebacademy.com).
+## 🌿 Powered by Zeba Academy
+
+This project is part of **Zeba Academy’s Practical React Native Series**, focused on real-world UI projects with smooth animations, clean code, and reusable components.  
+Visit 👉 [zeba.academy](https://zeba.academy)
+
 ---
-## License
-MIT License © 2025 zeba.academy
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+```sh
+git clone https://github.com/sufyanism/gallery-application-in-react-native.git
+cd react-native-gallery-app
+```
+
+### 2. Install dependencies
+```sh
+npm install
+# OR
+yarn install
+```
+
+### 3. Run the app
+```sh
+npm run android
+# OR
+npm run ios
+```
+
+---
+
+## ✨ Features
+
+### 🖼 Gallery Grid & Image Preview Modal
+- Displays all images in a **2-column responsive grid**.  
+- Tap any image to **view it fullscreen** in a smooth modal view.
+
+### 🔍 Search Bar & Filters
+- Search images by **title or keyword**.  
+- Filter by categories: **All, Nature, Urban, Other, and Favorites.**
+
+### ❤️ Favorites Feature
+- Tap the **heart icon** to add/remove favorites.  
+- View only liked images by switching to the **Favorites category.**
+
+---
+
+## ⚙️ Usage
+
+- Use the search bar at the top to filter images by title.  
+- Tap category buttons to view filtered results.  
+- Tap an image to open it in fullscreen.  
+- Tap the heart icon to favorite/unfavorite.  
+- Close fullscreen preview using the **X button.**
+
+---
+
+## 🧩 Code Overview
+
+- **App.jsx** handles all main logic: gallery, search, filters, favorites, and modal preview.  
+- Uses React Native components like `FlatList`, `Modal`, `TextInput`, and `TouchableOpacity`.  
+- State is managed using **React Hooks** (`useState`, `useRef`).  
+- **Animated API** is used for smooth favorite toggle effects.
+
+---
+
+## 🛠 Tech Stack
+
+- [React Native](https://reactnative.dev)  
+- JavaScript / JSX  
+- React Hooks  
+- React Native Animated API
+
+---
+
+## 📸 Screenshots
+
+| Gallery View | Search & Filters | Favorites |
+|---------------|------------------|------------|
+| ![Gallery](./assets/screenshots/gallery.png) | ![Search](./assets/screenshots/search.png) | ![Favorites](./assets/screenshots/favorites.png) |
+
+| Fullscreen View | Modal Animation |
+|-----------------|-----------------|
+| ![Fullscreen](./assets/screenshots/fullscreen.png) | ![Modal](./assets/screenshots/modal.png) |
+
+---
+
+## 🎥 Demo Video
+
+Check out the full demo tutorial here:  
+👉 [Watch Demo](./assets/demo/gallery_demo.mp4)
+
+```markdown
+![Gallery Demo](./assets/demo/gallery_demo.gif)
+```
+
+---
+
+## 👨‍🏫 About Zeba Academy
+
+This project is part of **Zeba Academy’s hands-on React Native tutorials**, built to teach beginners and intermediate developers how to create polished, production-style apps with real-world features.  
+Explore more tutorials and join our learning community:  
+👉 [https://zeba.academy](https://zeba.academy)
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** — © 2025 [zeba.academy](https://zeba.academy)
