@@ -3,14 +3,14 @@
 A React Native mobile application built with [`@react-native-community/cli`](https://github.com/react-native-community/cli).  
 This app is a complete tutorial project by **Zeba Academy**, teaching how to build a beautiful and interactive **image gallery** using React Native.  
 
----
+</br>
 
 ## 🌿 Powered by Zeba Academy
 
 This project is part of **Zeba Academy’s Practical React Native Series**, focused on real-world UI projects with smooth animations, clean code, and reusable components.  
 Visit 👉 [zeba.academy](https://zeba.academy)
 
----
+</br>
 
 ## 🚀 Getting Started
 
@@ -34,7 +34,7 @@ npm run android
 npm run ios
 ```
 
----
+</br>
 
 ## ✨ Features
 
@@ -50,7 +50,7 @@ npm run ios
 - Tap the **heart icon** to add/remove favorites.  
 - View only liked images by switching to the **Favorites category.**
 
----
+</br>
 
 ## ⚙️ Usage
 
@@ -60,7 +60,7 @@ npm run ios
 - Tap the heart icon to favorite/unfavorite.  
 - Close fullscreen preview using the **X button.**
 
----
+</br>
 
 ## 🧩 Code Overview
 
@@ -69,7 +69,7 @@ npm run ios
 - State is managed using **React Hooks** (`useState`, `useRef`).  
 - **Animated API** is used for smooth favorite toggle effects.
 
----
+</br>
 
 ## 🛠 Tech Stack
 
@@ -78,7 +78,7 @@ npm run ios
 - React Hooks  
 - React Native Animated API
 
----
+</br>
 
 ## 📸 Screenshots
 
@@ -90,7 +90,7 @@ npm run ios
 |-----------------|-----------------|
 | ![Fullscreen](./assets/screenshots/fullscreen.png) | ![Modal](./assets/screenshots/modal.png) |
 
----
+</br>
 
 ## 🎥 Demo Video
 
@@ -100,8 +100,6 @@ Check out the full demo tutorial here:
 ```markdown
 ![Gallery Demo](./assets/demo/gallery_demo.gif)
 ```
-
----
 
 </br>
 
