@@ -5,13 +5,6 @@ This app is a complete tutorial project by **Zeba Academy**, teaching how to bui
 
 </br>
 
-## 🌿 Powered by Zeba Academy
-
-This project is part of **Zeba Academy’s Practical React Native Series**, focused on real-world UI projects with smooth animations, clean code, and reusable components.  
-Visit 👉 [zeba.academy](https://zeba.academy)
-
-</br>
-
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
