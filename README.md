@@ -73,29 +73,6 @@ npm run ios
 
 </br>
 
-## 📸 Screenshots
-
-| Gallery View | Search & Filters | Favorites |
-|---------------|------------------|------------|
-| ![Gallery](./assets/screenshots/gallery.png) | ![Search](./assets/screenshots/search.png) | ![Favorites](./assets/screenshots/favorites.png) |
-
-| Fullscreen View | Modal Animation |
-|-----------------|-----------------|
-| ![Fullscreen](./assets/screenshots/fullscreen.png) | ![Modal](./assets/screenshots/modal.png) |
-
-</br>
-
-## 🎥 Demo Video
-
-Check out the full demo tutorial here:  
-👉 [Watch Demo](./assets/demo/gallery_demo.mp4)
-
-```markdown
-![Gallery Demo](./assets/demo/gallery_demo.gif)
-```
-
-</br>
-
 ## About Me 
 ✨ I’m **Sufyan bin Uzayr**, an open-source developer passionate about building and sharing meaningful projects.
 You can learn more about me and my work at [sufyanism.com](https://sufyanism.com/) or connect with me on [Linkedin](https://www.linkedin.com/in/sufyanism)
