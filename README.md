@@ -46,7 +46,6 @@ npm run ios
 </br>
 
 ## ⚙️ Usage
-
 - Use the search bar at the top to filter images by title.  
 - Tap category buttons to view filtered results.  
 - Tap an image to open it in fullscreen.  
