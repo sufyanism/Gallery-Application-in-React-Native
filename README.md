@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/4ecd6c94-1c67-496b-a95a-6acf0cb8bd2d
 # React Native Gallery App 📸
 
 A React Native mobile application built with [`@react-native-community/cli`](https://github.com/react-native-community/cli).  
@@ -71,6 +73,13 @@ npm run ios
 - React Native Animated API
 
 </br>
+
+## 📹 Demo
+https://github.com/user-attachments/assets/e85f7575-0bed-4df6-b64e-b10cabaacf19
+
+
+
+<br/>
 
 ## About Me 
 ✨ I’m **Sufyan bin Uzayr**, an open-source developer passionate about building and sharing meaningful projects.
